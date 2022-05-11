@@ -1,0 +1,10 @@
+** source lesson: https://www.youtube.com/watch?v=6QFkgOeQc0c&list=PLDmvslp_VR0xjh7wGMNd_1kk0zUox6Sue
+
+** code from leaflet: https://leafletjs.com/
+find a geoloactes point (L and l) : https://geojson.io/#map=2/20.1/-0.2
+careful in the .setView([         
+	44.35454176053259, 5.12786865234375], 11.5), often Latitude and Longitude have to be switched
+
+** various basemaps can be found here: http://leaflet-extras.github.io/leaflet-providers/preview/
+
+** create your own basemap, layers, markers, icon : https://www.youtube.com/watch?v=EmfE9VyAYcY
